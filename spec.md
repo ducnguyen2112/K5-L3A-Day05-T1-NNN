@@ -164,9 +164,6 @@ AI có thể vẫn đánh giá thấp tình trạng nguy hiểm dù đã đượ
 
 ### 4.1. Nguyên tắc và bảng mức tự chủ đề xuất
 
-**Nguyên tắc:** Hành động có thể khiến khách dùng sai thuốc phải qua dược sĩ; cảnh báo nguy hiểm không được chờ duyệt; ghi hồ sơ cần sự đồng ý riêng; việc ngoài thẩm quyền vẫn bị chặn dù khách yêu cầu.
-
-Đây là **phương án thiết kế đề xuất cho nhóm**, chưa phải kết quả thảo luận của ba thành viên. Căn cứ: [bộ 5 tool và giới hạn của track T1](https://github.com/VinUni-AI20k/K5-L3-Day05-AI-Product-UX-Autonomy/blob/main/tracks/t1-healthcare.md), các lỗi ở §2 và luồng xử lý ở §3. Các mốc chờ dưới đây là **giả định cho prototype**, không phải thời gian phục vụ Pharmacity đã cam kết.
 
 | Tool                     | Mức đề xuất                                                       | Điều kiện và giới hạn                                                                                                                                                                                                                                                               |
 | ------------------------ | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
